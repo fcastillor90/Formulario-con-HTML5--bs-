@@ -1,0 +1,12 @@
+body{
+    display: flex;
+}
+
+.title{
+    background: lightgrey;
+    padding: 5px;
+}
+
+.card{
+    border: solid lightblue;
+}
